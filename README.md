@@ -1,0 +1,4 @@
+wxApp
+=====
+
+android app
